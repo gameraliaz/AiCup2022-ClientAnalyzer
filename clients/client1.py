@@ -1,7 +1,7 @@
 from os import makedirs
 from enum import Enum
 
-DEBUG = 0
+DEBUG = 1
 
 
 class Action(Enum):
